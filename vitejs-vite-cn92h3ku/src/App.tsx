@@ -7,6 +7,7 @@ const TipsyPartyTest = () => {
   const [answers, setAnswers] = useState([]);
 
   const questions = [
+  
     {
       phase: "Phase 1: 평소의 나 & 친구 관계",
       q: "오랜만에 친구들을 만나는 날!\n약속 장소로 가는 길, 당신의 머릿속은?",
